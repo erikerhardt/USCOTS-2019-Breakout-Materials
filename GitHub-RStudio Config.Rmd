@@ -1,7 +1,8 @@
 ---
 title: "GitHub-RStudio Configuration"
-author: "Matthew Beckman"
-date: ""
+subtitle: "USCOTS 2019 Breakout Session"
+author: "Matthew Beckman & Adam Sullivan"
+date: "May 17, 2019"
 output:
   html_document:
     df_print: paged
@@ -32,7 +33,7 @@ A more complete guide to configuring Git(Hub) and RStudio is available at <https
 
 0. Create GitHub user id (if you haven't done so already)
     - I recommend you use some derivative of your actual name (mine is `mdbeckman`)
-    - Choose a name that you are comfortable sharing during a job interview 
+    - Choose a name that you are comfortable sharing with others 
     - Better yet if it's a name that is *recognizable* as you (e.g. a psu id like `mdb268` is fine, but NOT recognizable to those outside Penn State)
 1. Log in
 2. Create Repo for your project (or navigate to an existing Repo)
