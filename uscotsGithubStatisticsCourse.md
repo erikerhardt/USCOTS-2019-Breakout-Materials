@@ -1,4 +1,4 @@
-Reproducible research in statistics courses using Git/Github
+Integrating Git/Github into the course workflow
 ========================================================
 author: 
 date: 
